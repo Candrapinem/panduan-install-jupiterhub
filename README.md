@@ -125,6 +125,15 @@ http://<IP_SERVER>:8000
 
 ![Akses melalui browser](images/jupyter_step11.png)
 
+## 📌 Catatan
+
+- Pastikan koneksi internet stabil selama proses instalasi.
+- Jalankan sebagai user biasa, bukan root.
+- Tutorial ini mengasumsikan kamu sudah familiar dengan penggunaan terminal di Ubuntu.
+
+---
+
+
 
 ## 📁 File Asli
 
