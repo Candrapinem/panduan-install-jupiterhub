@@ -36,6 +36,10 @@ Instal Python, pip, Node.js, dan npm:
 sudo apt install -y python3 python3-pip python3-venv nodejs npm
 ```
 
+![Instal dependensi](images/jupyter_step3.png)
+
+---
+
 Cek versi:
 
 ```bash
@@ -44,7 +48,7 @@ npm -v
 python3 --version
 ```
 
-![Instal dependensi](images/jupyter_step3.png)
+![Virtual environment](images/jupyter_step4.png)
 
 ---
 
@@ -55,9 +59,7 @@ python3 -m venv jhubenv
 source jhubenv/bin/activate
 ```
 
-![Virtual environment](images/jupyter_step4.png)
 
----
 
 ## 5. Instal JupyterHub dan Konfigurasi Proxy
 
