@@ -59,7 +59,9 @@ python3 -m venv jhubenv
 source jhubenv/bin/activate
 ```
 
+![Instal JupyterHub dan Proxy](images/jupyter_step5.png)
 
+---
 
 ## 5. Instal JupyterHub dan Konfigurasi Proxy
 
@@ -69,7 +71,11 @@ pip install jupyterhub notebook
 sudo npm install -g configurable-http-proxy
 ```
 
-![Instal JupyterHub dan Proxy](images/jupyter_step5.png)
+![Generate config](images/jupyter_step6.png)
+
+---
+
+![Jalankan JupyterHub](images/jupyter_step7.png)
 
 ---
 
@@ -81,9 +87,8 @@ Perintah ini akan membuat file `jupyterhub_config.py`:
 jupyterhub --generate-config
 ```
 
-![Generate config](images/jupyter_step6.png)
 
----
+
 
 ## 7. Menjalankan JupyterHub
 
@@ -105,9 +110,7 @@ Atau jika remote:
 http://<IP_SERVER>:8000
 ```
 
-![Jalankan JupyterHub](images/jupyter_step7.png)
 
----
 
 ## 📁 File Asli
 
