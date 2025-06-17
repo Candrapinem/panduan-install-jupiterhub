@@ -79,6 +79,10 @@ sudo npm install -g configurable-http-proxy
 
 ---
 
+![File Konfigurasi](images/jupyter_step8.png)
+
+---
+
 ## 6. Buat File Konfigurasi
 
 Perintah ini akan membuat file `jupyterhub_config.py`:
@@ -87,9 +91,6 @@ Perintah ini akan membuat file `jupyterhub_config.py`:
 jupyterhub --generate-config
 ```
 
-![File Konfigurasi](images/jupyter_step8.png)
-
----
 
 ![Menjalankan JupyterHub](images/jupyter_step9.png)
 
