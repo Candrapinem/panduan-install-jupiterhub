@@ -91,6 +91,9 @@ jupyterhub --generate-config
 
 ---
 
+![Menjalankan JupyterHub](images/jupyter_step9.png)
+
+---
 
 ## 7. Menjalankan JupyterHub
 
@@ -100,9 +103,10 @@ Jalankan server JupyterHub:
 jupyterhub
 ```
 
-![Menjalankan JupyterHub](images/jupyter_step9.png)
+![Akses melalui browser](images/jupyter_step10.png)
 
 ---
+
 
 Akses melalui browser di:
 
@@ -110,9 +114,7 @@ Akses melalui browser di:
 http://localhost:8000
 ```
 
-![Akses melalui browser](images/jupyter_step10.png)
 
----
 
 Atau jika remote:
 
