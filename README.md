@@ -1,4 +1,4 @@
-# Panduan Instalasi JupyterHub di Ubuntu 24.04 LTS
+# Panduan Instalasi JupyterHub di Ubuntu 22.04 LTS
 
 Panduan ini berisi langkah-langkah lengkap untuk menginstal **JupyterHub** pada sistem operasi **Ubuntu 24.04 LTS**, termasuk pembuatan environment, instalasi dependensi, dan konfigurasi awal.
 
